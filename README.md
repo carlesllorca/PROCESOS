@@ -1,6 +1,6 @@
-#Desarrollar una barra de tareas
+# Desarrollar una barra de tareas
 
-##Swing
+## Swing
 
 En este ejerciocio mediante ProcessBuilder y Swing vamos a crear una barra de tareas que ejecuten mis 4 aplicaciones preferidas. En este caso he elegido eclipse, gimp, android studio y visual studio.
 
@@ -16,7 +16,7 @@ ImageIcon icon = new ImageIcon("imagen\\eclipse.png");
 ```
 
 
-Cuando inicias cada boton cuando le das iniciará el programa predeterminado de ese ordenador. Para canviar el link tienes que canviar el link por el link donde este la aplicación.
+#### Cuando inicias cada boton cuando le das iniciará el programa predeterminado de ese ordenador. Para canviar el link tienes que canviar el link por el link donde este la aplicación.
 
 ```java
 btnEclipse.addActionListener(new ActionListener() {
@@ -31,7 +31,7 @@ btnEclipse.addActionListener(new ActionListener() {
 			}
 		});
 ```
-El código comleto:
+#### El código comleto:
 ```java
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
