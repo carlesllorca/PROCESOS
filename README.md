@@ -1,3 +1,21 @@
+# Aplicacion
+Una aplicación es una ejecución informática que permite hacer varias tareas, según el programador quiere programar. A dia de hoy, practicamente todo el mundo gasta aplicaciones dia a dia, por ejemplo, cuando entramos a una pagina web estamos gastando una aplicación capaz de poder leer una página web, otra aplicación sería un documento de texto, es decir, cuando abrimos el documento, lo que utilizamos para abrir el documento es la aplicación, y así podemos ver muchos más ejemplos.
+
+# Servicio
+Es un conjunto de actividades que buscan responder a las necesidades de un cliente por medio de un cambio de condición en los bienes informáticos (llámese activos), potenciando el valor de estos y reduciendo el riesgo inherente del sistema.
+
+# Hilo
+Conjunto de tareas pequeñas que un sistema operativo puede ejecutar. Todos los hilos que gastan el mismo recurso, se llama precoso.
+
+# Progamación concurrente
+Es la simultaneidad en la ejecución de múltiples tareas interactivas. Estas tareas pueden ser un conjunto de procesos o hilos de ejecución creados por un único programa. Las tareas se pueden ejecutar en una sola unidad central de proceso (multiprogramación), en varios procesadores o en una red de computadores distribuidos.
+
+# Programación paralela
+Es un modelo para escribir programas en el que agruparemos por diferentes tipos para después poder gastarlo y accedir más fácilmente.
+
+# Programación distribuida
+Es un tipo de programacion que utiliza un servidor para programar, es decir, se conecta y utiliza el codigo.
+
 # Desarrollar una barra de tareas
 
 ## Swing
